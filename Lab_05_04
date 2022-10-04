@@ -1,0 +1,17 @@
+public class Main {
+    public static void main(String... args){}
+
+    final int DRINKING_AGE=21;
+    int numAge=0;
+    {
+        System.out.println("Enter your age");
+    }
+    //input age
+
+    {
+      if(numAge>=21){
+          System.out.println("You get a wristband.");}
+
+    }
+
+}
